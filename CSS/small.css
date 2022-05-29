@@ -1,0 +1,19 @@
+td {
+    width: 70px;
+    height: 70px;
+}
+button{
+    width: 70px;
+    height: 70px;
+}
+h1{
+    font-size: 1.2rem;
+}
+#reset{
+  
+    float: right;
+    margin-right: 20%;
+    width: 70px;
+    height: 30px;
+    
+}
