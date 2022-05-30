@@ -54,10 +54,10 @@ function checker() {
         }
         if (count == 3) {
             if (isplayer1) {
-                alert("Congratulations! Player1 wins");
+                alert("Congratulations! Player2 wins");
             }
             else {
-                alert("Congratulations! Player2 wins");
+                alert("Congratulations! Player1 wins");
             }
             isalert = true;
             removeAll();
@@ -71,14 +71,15 @@ function startGame(event) {
         isplayer1 = false;
         text = 'X';
         event.target.textContent = text;
-        dis.textContent = "Player 1's Chance";
+        dis.textContent = "Player 2's Chance";
 
     }
     else {
         isplayer1 = true;
         text = 'O';
         event.target.textContent = text;
-        dis.textContent = "Player 2's Chance";
+        dis.textContent = "Player 1's Chance";
+        
     }
     clicks = clicks + 1;
     checker();
