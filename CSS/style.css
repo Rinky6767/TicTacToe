@@ -9,7 +9,7 @@ body{
 }
 
 table{
-    margin: 15% auto;
+    margin:  auto;
     
 }
 td {
@@ -53,10 +53,10 @@ button {
     font-size: 1.2rem;
     background-color: lightcoral;
     color: white;
-    border-radius: 5px;
+    border-radius: 9px;
 }
 #displayChance{
     margin-top: 20%;
+    margin-bottom: 20%;
 }
-
 
