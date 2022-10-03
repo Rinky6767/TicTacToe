@@ -13,7 +13,7 @@ Tic Tac Toe "X and 0" :)
  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
  # Installing
- * You can clone the repository, using the command: git clone url;
+ * You can clone the repository, using the command: git clone [url](https://github.com/Rinky6767/TicTacToe.git);
  
  * You can View the Website [Here](https://fancy-sprite-9ce8ee.netlify.app/)
 
